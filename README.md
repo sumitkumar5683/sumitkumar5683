@@ -13,7 +13,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’ve completed my Bachelor's degree in Bachelors's in Computer Application at [Galgotias University](https://www.galgotiasuniversity.edu.in/);
+- 💼 I’ve completed my Bachelor's degree in Computer Application at [Galgotias University](https://www.galgotiasuniversity.edu.in/);
 - 👨🏽‍💻 Web Development Intern at [TULIP](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/);
 - 👨🏽‍💻 Backend Development Training at [AIF(BlackRock)](https://e2eblackrock.aiflms.in/);
 - 🤔 My interests are with Web Development 🖥️, Programming 👨🏼‍💻, Learning new things 🆕, Football ⚽, etc..;
