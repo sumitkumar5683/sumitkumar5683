@@ -18,7 +18,6 @@
 - 👨🏽‍💻 Backend Development Training at [AIF(BlackRock)](https://e2eblackrock.aiflms.in/);
 - 🤔 My interests are with Web Development 🖥️, Programming 👨🏼‍💻, Learning new things 🆕, Football ⚽, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
-- 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kumar.sumit321321@gmail.com or ping me on [LinkedIn](https://www.linkedin.com/in/sumit-kumar-84b869231/) to reach me;
 - 👨🏽‍💻 Visit MY Hackerrank Profile [Hackerrank](https://www.hackerrank.com/kumar_sumit32131);
 - 👨🏽‍💻 Visit MY Leetcode Profile [Leetcode](https://leetcode.com/user9738RE/);
