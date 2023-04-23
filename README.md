@@ -15,7 +15,7 @@
 
 - 💼 I’ve completed my Bachelor's degree in Bachelors's in Computer Application at [Galgotias University](https://www.galgotiasuniversity.edu.in/);
 - 👨🏽‍💻 Web Development Intern at [TULIP](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/);
-- 👨🏽‍💻 I’m a Backend Development Training at [AIF(BlackRock)](https://e2eblackrock.aiflms.in/);
+- 👨🏽‍💻 Backend Development Training at [AIF(BlackRock)](https://e2eblackrock.aiflms.in/);
 - 🤔 My interests are with Web Development 🖥️, Programming 👨🏼‍💻, Learning new things 🆕, Football ⚽, etc..;
 - 🎬 I love watching movies and I'm a big fan of MCU <img src="https://www.pngfind.com/pngs/m/173-1737725_captain-americas-shield-hd-png-download.png" width=15 height=15>
 - 💬 Ask me about anything, I am happy to help;
