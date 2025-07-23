@@ -13,7 +13,10 @@
   
 **Talking about Personal Stuffs:**
 
-- 💼 I’ve completed my Bachelor's degree in Computer Application at [Galgotias University](https://www.galgotiasuniversity.edu.in/);
+- 💼 I’ve completed my Bachelor's degree in Master of Computer Application at [Gautam Buddha University](https://www.gbu.ac.in/);
+- 💼 I’ve completed my Bachelor's degree in Bachelor of Computer Application at [Galgotias University](https://www.galgotiasuniversity.edu.in/);
+- 👨🏽‍💻 Full Stack Developer at [Apex Byte | IT Services](https://apexbyte.in/Team_ApexByte/);
+- 👨🏽‍💻 Web Development Intern at [Gautam Buddha University](https://www.gbu.ac.in/USICT/developer.html);
 - 👨🏽‍💻 Web Development Intern at [TULIP](https://internship.aicte-india.org/module_ulb/Dashboard/TulipMain/);
 - 👨🏽‍💻 Java Backend Development Training at [AIF(BlackRock)](https://e2eblackrock.aiflms.in/);
 - 🤔 My interests are with Web Development 🖥️, Programming 👨🏼‍💻, Learning new things 🆕, Football ⚽, etc..;
