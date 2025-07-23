@@ -30,6 +30,7 @@
 ### Worked with 
 
 <code><img height="40" src="https://img.icons8.com/color/512/c-sharp-logo.png" title="C#"></code>
+<code><img height="40" src="https://pngimg.com/d/php_PNG17.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
@@ -37,7 +38,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="spring-boot"></code>
+<code><img height="40" src="https://wp.logos-download.com/wp-content/uploads/2017/07/Microsoft_.NET_logo.png?dl" title=">.NET"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 
 
